@@ -1,0 +1,4 @@
+[
+('Tests-N45-QPSolver/N45_D.zip', '943fd6f4f09987560e5c481b3d4f23d967e7a5d0bbb6c1d8ded3bbea57784dd7', 147914), 
+('Tests-N45-QPSolver/N45_Q.zip', '8b11df1c90960381979e206d2f3ae1c16049a41232ed24837527f719bce13ce8', 152716), 
+('Tests-N45-QPSolver/N45_QPM_D.zip', '3294c3b89f2d3f27e46725b58e1edf05920f7260b034daac3de9f88ffdf3ea45', 149922)]

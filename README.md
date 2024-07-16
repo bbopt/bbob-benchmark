@@ -1,2 +1,2 @@
 # bbob-benchmark
-Blackbox optimization benchmarks using COCO
+Data archive for blackbox optimization benchmarks using COCO.
